@@ -1,1 +1,2 @@
 # Time_Prediction
+Food delivery services like Zomato and Swiggy need to show accurate delivery times to keep their customers informed. They use Machine Learning to predict how long deliveries will take, based on past delivery times for similar distances. If you want to learn how to use Machine Learning to predict food delivery times, this article will help you. It will show you how to do it using Python.
